@@ -320,20 +320,3 @@ a:hover{
     text-decoration: underline;
 }
 
-.creator{
-    font-size: 15px;
-    color: white;
-    /* margin-top: 1px; */
-    background-color: black;
-    animation: blink 0.5s linear infinite;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-    position: fixed;
-    bottom: 5px;
-    right: 0;
-    line-height: 15px;
-}
-.creator span{
-    font-family: cursive;
-}
