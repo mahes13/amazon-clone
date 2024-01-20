@@ -337,23 +337,3 @@ a:hover{
 .creator span{
     font-family: cursive;
 }
-
-
-/* Animation */
-@keyframes blink {
-    0% {
-      opacity: 0.5;
-      color: #ffffff;
-    }
-    /* 50% {
-      color: #DDDDDD;
-    } */
-    100% {
-      opacity: 1;
-      color: #eb7609;
-    }
-  }
-
-  .navbar,.panel div:hover{
-    cursor: pointer;
-  }
